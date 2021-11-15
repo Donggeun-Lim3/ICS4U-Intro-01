@@ -1,0 +1,5 @@
+/home/runner/ICS4U-Intro-01/obj/Debug/netcoreapp5.0/main.csprojAssemblyReference.cache
+/home/runner/ICS4U-Intro-01/obj/Debug/netcoreapp5.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/ICS4U-Intro-01/obj/Debug/netcoreapp5.0/main.AssemblyInfoInputs.cache
+/home/runner/ICS4U-Intro-01/obj/Debug/netcoreapp5.0/main.AssemblyInfo.cs
+/home/runner/ICS4U-Intro-01/obj/Debug/netcoreapp5.0/main.csproj.CoreCompileInputs.cache
